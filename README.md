@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinsimaar
+- 👋 Hi, I’m sachinsimaar
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science & machine learning
 - 📫 How to reach me => Email- sachinsimaar7604@gmail.com
